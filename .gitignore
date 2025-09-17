@@ -53,6 +53,7 @@
 *.__Previews/*
 *.Zip
 *.SchDocPreview
+**/OldVersions/*
 
 modules.order
 Module.symvers
