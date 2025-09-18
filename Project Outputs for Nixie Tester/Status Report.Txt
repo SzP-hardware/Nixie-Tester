@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:44:46 On 2025. 09. 18.
+
+Output: PCBstep
+Type  : ExportSTEP
+From  : Variant [Default] of PCB Document [Nixie Tester.PcbDoc]
+   Generated File[Nixie Tester_Step_Rev.1.0._2025-09-18.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:44:49 On 2025. 09. 18.
